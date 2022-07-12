@@ -1,0 +1,96 @@
+{
+  "aboutme": {
+    "name": "Kate Winslet",
+    "birthday": "1 April 1990",
+    "degree": "Master",
+    "experience": "10 Years",
+    "phone": "+012 345 6789",
+    "email": "info@example.com",
+    "address": "123 Street, New York, USA",
+    "freelance": "Available",
+    "main_picture": "./img/profile.jpg",
+    "cv": "/#",
+    "video": "https://www.youtube.com/embed/-DOSBtIITxM",
+    "photo": "./img/about.jpg",
+    "title": "UI/UX Designer & Web Developer",
+    "description": "Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum. Amet dolor stet lorem diam dolor justo et dolor dolor dolor"
+  },
+  "education": [
+    {
+      "id": 1,
+      "title": "Master In CSE",
+      "years": "2000-2005",
+      "college": "Cambridge University",
+      "description": "Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum stet lorem diam"
+    },
+    {
+      "id": 2,
+      "title": "Master In CSE",
+      "years": "2000-2005",
+      "college": "Cambridge University",
+      "description": "Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum stet lorem diam"
+    },
+    {
+      "id": 3,
+      "title": "Master In CSE",
+      "years": "2000-2005",
+      "college": "Cambridge University",
+      "description": "Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum stet lorem diam"
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "title": "Web Designer",
+      "years": "2000-2005",
+      "college": "Soft Company",
+      "description": "Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum stet lorem diam"
+    },
+    {
+      "id": 2,
+      "title": "Web Designer",
+      "years": "2000-2005",
+      "college": "Soft Company",
+      "description": "Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum stet lorem diam"
+    },
+    {
+      "id": 3,
+      "title": "Web Designer",
+      "years": "2000-2005",
+      "college": "Soft Company",
+      "description": "Tempor eos dolore amet tempor dolor tempor. Dolore ea magna sit amet dolor eirmod. Eos ipsum est tempor dolor. Clita lorem kasd sed ea lorem diam ea lorem eirmod duo sit ipsum stet lorem diam"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HTML",
+      "level": "95",
+      "id": 1
+    },
+    {
+      "skill": "Javascript",
+      "level": "90",
+      "id": 2
+    },
+    {
+      "skill": "CSS",
+      "level": "35",
+      "id": 3
+    },
+    {
+      "skill": "GIT",
+      "level": "35",
+      "id": 5
+    },
+    {
+      "skill": "React",
+      "level": "95",
+      "id": 6
+    },
+    {
+      "skill": "Java",
+      "level": "60",
+      "id": 7
+    }
+  ]
+}
